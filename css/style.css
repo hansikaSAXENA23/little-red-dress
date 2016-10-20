@@ -6,9 +6,16 @@
  * Made By MaterializeCSS.com
  */
 
+body{
+	background-image: url(img/geometry.png);
+}
 .icon-block {
   padding: 0 15px;
 }
 .icon-block .material-icons {
 	font-size: inherit;
+}
+#button{
+	margin: auto;
+
 }
