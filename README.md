@@ -1,2 +1,2 @@
 # little-red-dress
-Creative portfolio based ob Material Design
+Creative portfolio based on Material Design.
